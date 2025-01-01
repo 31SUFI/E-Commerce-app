@@ -94,7 +94,7 @@ class LoginScreen extends StatelessWidget {
                     ),
                     UiHelper.CustomText(
                         text:
-                            "Access your saved addresses from Zomato automatically!",
+                            "Access your saved addresses from Deal Cart automatically!",
                         color: Color(0XFF9C9C9C),
                         fontweight: FontWeight.normal,
                         fontsize: 10),

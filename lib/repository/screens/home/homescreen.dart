@@ -5,7 +5,7 @@ class HomeScreen extends StatelessWidget {
   final TextEditingController searchController = TextEditingController();
   final data = [
     {"img": "image 50.png", "text": "Lights, Diyas \n & Candles"},
-    {"img": "image 51.png", "text": "Diwali \n Gifts"},
+    {"img": "image 51.png", "text": "Christmas \n Gifts"},
     {"img": "image 52.png", "text": "Appliances  \n & Gadgets"},
     {"img": "image 53.png", "text": "Home \n & Living"}
   ];
@@ -119,7 +119,7 @@ class HomeScreen extends StatelessWidget {
                           UiHelper.CustomImage(img: "image 60.png"),
                           UiHelper.CustomImage(img: "image 55.png"),
                           UiHelper.CustomText(
-                            text: "Mega Diwali Sale",
+                            text: "Christmas Sale",
                             color: Colors.white,
                             fontweight: FontWeight.bold,
                             fontsize: 20,
